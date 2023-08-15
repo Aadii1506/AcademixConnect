@@ -11,7 +11,8 @@ git clone https://github.com/Aadii1506/AcademixConnect
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd AcademixConnect
+
 
 ```
 
