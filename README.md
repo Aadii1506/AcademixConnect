@@ -5,7 +5,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone [https://github.com/divanov11/StudyBud.git](https://github.com/Aadii1506/AcademixConnect)
+git clone (https://github.com/Aadii1506/AcademixConnect)
 
 ```
 
